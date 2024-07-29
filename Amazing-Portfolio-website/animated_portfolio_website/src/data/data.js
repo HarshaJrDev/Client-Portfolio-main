@@ -1,0 +1,57 @@
+export const data = [
+  {
+    id: 1,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNnKb5dCzEQl5jiA9BCYSJxZO0n4p70_TOXA&s",
+    title: "Ecommerce full Stack",
+    desc: "",
+    link: "",
+    git: "https://github.com/HarshaJrDev/Vfc",
+  },
+  {
+    id: 2,
+    img: "https://media.shuru.co.in/input/1683637294081.jpg",
+    title: "News App",
+    link: "",
+    git: "https://github.com/HarshaJrDev/NewsApp",
+  },
+  {
+    id: 3,
+    img: "https://appsamurai.com/wp-content/uploads/2017/10/promote-travel-apps.png",
+    title: "Travling App",
+    desc: "",
+    link: "",
+    git: "https://github.com/HarshaJrDev/PlanToTravel",
+  },
+  {
+    id: 1,
+    img: "https://techbaked.com/wp-content/uploads/2020/03/Best-Free-Movie-Apps2-1140x641.jpg",
+    title: "MovieInfo",
+    desc: "",
+    link: "",
+    git: "https://github.com/HarshaJrDev/NetflixClone",
+  },
+  {
+    id: 2,
+    img: "https://miro.medium.com/v2/resize:fit:700/1*mLE5ZxhtATxrwh20SL2Tlg.png",
+    title: "Realtime Chat full Stack App",
+    link: "",
+    git: "https://github.com/HarshaJrDev/StayConnected",
+  },
+  {
+    id: 3,
+    img: "https://i1.wp.com/www.digitalintervention.com/wp-content/uploads/2017/03/YouTube-tv-icon-1.jpg",
+    title: "YoutubeClone",
+    desc: "",
+    link: "",
+    git: "https://github.com/HarshaJrDev/YoutubeClone",
+  },
+  {
+    id: 3,
+    img: "https://www.bamco.com/wp-content/uploads/2022/02/22-8624_FSD_CLIMATE-CHANGE-1200x630-1.jpg",
+    title: "Food Menu DashBoard",
+    desc: "",
+    link: "",
+    git: "https://github.com/HarshaJrDev/foodapp",
+  },
+
+];
