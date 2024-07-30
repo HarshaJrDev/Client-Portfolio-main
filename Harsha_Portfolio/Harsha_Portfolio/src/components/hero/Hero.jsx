@@ -8,7 +8,7 @@ import { FaFacebook, FaLinkedinIn } from "react-icons/fa";
 import { FiDownload } from "react-icons/fi";
 import { FaPlay } from "react-icons/fa";
 import { TypeAnimation } from "react-type-animation";
-import resumePDF from "../../assets/Ravuri Harsha Vardhan.pdf";
+import resumePDF from "../../assets/Harsha_ReactNative.pdf";
 
 const Hero = () => {
   return (
@@ -67,7 +67,7 @@ const Hero = () => {
                 </a>
               </li>
               <li>
-                <a href="https://www.linkedin.com/in/rsw72?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bdh5M0EpuRCeKmGB17zduxw%3D%3D">
+                <a href="https://www.linkedin.com/in/ravuri-harsha-52220726b/">
                   {" "}
                   <FaLinkedinIn className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125 " />{" "}
                 </a>
